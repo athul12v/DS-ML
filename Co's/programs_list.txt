@@ -1,0 +1,7 @@
+Regression (linear & multiple)
+Decision Tree
+K-Nearest Neighbour (knn)
+Naive Bayes
+Matplotlib (visualization)
+Numpy and Pandas (arrays)
+SVM
